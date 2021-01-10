@@ -1,0 +1,65 @@
+body {
+  margin: 0px;
+}
+
+.nav {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+}
+
+.nav-link {
+  margin-right: 8px;
+}
+
+.nav-link a {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-right: 8px;
+  text-decoration: none;
+}
+
+/* hero */
+.hero {
+  background-color: black;
+  display: flex;
+}
+
+.hero-right {
+  width: 25%;
+  overflow: hidden;
+}
+
+.hero-left {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+  align-items: center;
+}
+
+.title {
+  color: white;
+  font-size: 64px;
+}
+
+.subtitle {
+  color: rgb(230, 222, 222);
+  font-size: 24px;
+  margin-bottom: 64px;
+}
+
+.buy-btn {
+  color: rgb(230, 158, 25);
+  background-color: transparent;
+  border: 2px solid rgb(230, 158, 25);
+  border-radius: 100px;
+  padding: 16px 32px;
+}
