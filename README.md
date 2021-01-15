@@ -1,3 +1,2 @@
 # static-ecommerce
 
-<h1>
