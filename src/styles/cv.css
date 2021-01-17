@@ -66,9 +66,8 @@ a {
 }
 .contact-cv {
   display: flex;
-  justify-content: center;
-  margin: 24px 24px 0 24px;
-  width: 100%;
+  justify-content:space-evenly;
+  margin: 40px 24px 0 16px;
 }
 .contact-cv a {
   padding: 8px;
